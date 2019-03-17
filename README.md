@@ -14,3 +14,7 @@
 * Clone the repo
 * npm init
 * npm i
+
+![GitHub Logo](https://github.com/erynjohn/match-it/blob/master/wireframe/Web%201920%20%E2%80%93%201.png)
+![GitHub Logo](https://github.com/erynjohn/match-it/blob/master/wireframe/Web%201920%20%E2%80%93%202.png)
+![GitHub Logo](https://github.com/erynjohn/match-it/blob/master/wireframe/Web%201920%20%E2%80%93%203.png)
