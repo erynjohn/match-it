@@ -1,7 +1,7 @@
 # Match It
 
 ### This project is a matching app that runs using Node. To get a match answer the questions and you will see a name and an image of who or what you match with the best.
-### **This app is a work in progress and will continue to be updated.**
+### *This app is a work in progress and will continue to be updated.*
 ### The deployed project is hosted on Heruko @ erynmonestero.com
 ## Tools used:
 * Node.js
